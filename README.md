@@ -1,0 +1,2 @@
+# Digital_Design_Basic
+Verilog_HDL_Semi_Conductor_IC_Digital_Design
